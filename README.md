@@ -1,1 +1,1 @@
-# live-subs-from-speech
+from audio text (speech) a live text (subtitles) are generated in any language
