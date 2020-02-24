@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: plotly-charts
+Version: 0.5
+Summary: Helper functions for plotly charts
+Home-page: http://github.com/walkerlangley/plotly-charts#v0.5
+Author: Walker Langley
+Author-email: flyingcircus@example.com
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: plotly
+Requires-Dist: pandas
+Requires-Dist: datetime
+Requires-Dist: cufflinks
+Requires-Dist: numpy
+
+UNKNOWN
+
+
